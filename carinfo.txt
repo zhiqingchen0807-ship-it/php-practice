@@ -1,0 +1,4 @@
+Make: Toyota
+Model: Avalon
+Color:White
+Mile: 3000
